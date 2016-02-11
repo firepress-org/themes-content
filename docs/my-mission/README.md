@@ -1,7 +1,7 @@
-<!-- 2016-02-11_15h51 -->
+<!-- 2016-02-11_15h54 -->
 <a name="my-mission"/>
 
-See on [github](https://github.com/publiodigital-com/dummy-content/tree/master/docs/my-mission)
+See on [github](https://github.com/publiodigital-com/dummy-content/blob/master/docs/my-mission/README.md)
 
 ## My mission
 
@@ -9,7 +9,7 @@ http://jmp.sh/EQWzrGP (audio)
 
 [*the-why*] I love software. I always been fascinated by the power hidden behind machines and lines of code. When I saw for the first time the movie “The Matrix”, this was a revelation. This passion for software made me realize over the years that…
 
-[*the-how*] My mission is to help people to share with the world what THEY DO BEST! I want them to realize they don’t have to wait to get pick anymore. Thanks to the web, now you, everyone can say: “Here, check this out! I made this … and if you want, if you like it, I can do it for you too.” 
+[*the-how*] My mission is to help people to share with the world what THEY DO BEST! I want them to realize they don’t have to wait to get pick anymore. Thanks to the web, now you, everyone can say: “*Here, check this out! I made this … and if you want, if you like it, I can do it for you too*.” 
 
 **I just happen to build great and user-friendly websites**.
 
@@ -29,7 +29,7 @@ You have an outstanding website and it makes you happy. You learned how to edit 
 
 Just [sign-up here](http://publiodigital.com) and start today.
 
-Cheers!
+Cheers!<br>
 Pascal
 
 P.S. My goal is that by February 2020, I will help over 2,000,000 people to put together their online identity. 
