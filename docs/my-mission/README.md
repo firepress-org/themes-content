@@ -1,6 +1,8 @@
 <!-- 2016-02-11_15h41 -->
 <a name="my-mission"/>
 
+See on [github](https://github.com/publiodigital-com/dummy-content/tree/master/docs/my-mission)
+
 ## My mission
 
 http://jmp.sh/EQWzrGP (audio)
