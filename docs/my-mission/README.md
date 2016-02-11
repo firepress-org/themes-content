@@ -1,7 +1,7 @@
 <!-- 2016-02-11_15h54 -->
 <a name="my-mission"/>
 
-See on [github](https://github.com/publiodigital-com/dummy-content/tree/master/docs/my-mission)
+See on [github](https://github.com/publiodigital-com/dummy-content/blob/master/docs/my-mission/README.md)
 
 ## My mission
 
