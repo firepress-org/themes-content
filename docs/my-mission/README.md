@@ -1,4 +1,4 @@
-<!-- 2016-02-11_15h41 -->
+<!-- 2016-02-11_15h51 -->
 <a name="my-mission"/>
 
 See on [github](https://github.com/publiodigital-com/dummy-content/tree/master/docs/my-mission)
@@ -19,17 +19,18 @@ There is only one condition to do business with us: You have a service/project/c
 
 **Setting up your website is as easy as 1-2-3**.
 
-1) Define your domain name (URL)
-3) Select a [theme](http://publiodigital.com/themes)
-4) Reserve your place to attend our [real-time online workshop](http://publiodigital.com/live-workshop). In 90 minutes, I will help you to put your website together and teach you how to operate it as an editor.
+1. Define your domain name (URL)
+2. Select a [theme](http://publiodigital.com/themes)
+3. Reserve your place to attend our [real-time online workshop](http://publiodigital.com/live-workshop). In 90 minutes, I will help you to put your website together and teach you how to operate it as an editor.
 
-**In the end, this is what you get**:
+**At the end, this is what you get**:
 
-You are happy and you have an outstanding website. You learned how to edit and published your content. You know how to embed video, forms, appointment tools, upload pictures. You know how to think like an editor. Fear of working on your website is a thing from the past (I've been there with my old site on WordPress). Your project grows and we’re officially a TEAM! At this point, this is just the beginning.
+You have an outstanding website and it makes you happy. You learned how to edit and published your content. You know how to embed video, forms, appointment tools, upload pictures. You know how to think like an editor. Fear of working on your website is a thing from the past (I've been there with my old site on WordPress). Your project grows and we’re officially a TEAM! At this point, this is just the beginning.
 
 Just [sign-up here](http://publiodigital.com) and start today.
 
 Cheers!
 Pascal
 
-P.S. My goal is that by February 2020, I will help over 2,000,000 people to put together their online identity. By February 2030, I will help over 100,000,000 people to connect with the people they can help. Hopefully, I can do it for you too.
+P.S. My goal is that by February 2020, I will help over 2,000,000 people to put together their online identity. 
+By February 2030, I will help over 100,000,000 people to connect with the people they can help. Hopefully, I can do it for you too.
