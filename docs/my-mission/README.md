@@ -29,7 +29,7 @@ You have an outstanding website and it makes you happy. You learned how to edit 
 
 Just [sign-up here](http://publiodigital.com) and start today.
 
-Cheers!
+Cheers!<br>
 Pascal
 
 P.S. My goal is that by February 2020, I will help over 2,000,000 people to put together their online identity. 
