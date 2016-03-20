@@ -13,3 +13,5 @@ https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_gene
 https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-logo-transparent.gif
 
 https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/post-im-a-pretty-post.jpg
+
+https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/what-can-you-do-with-your-new-blog.jpg
