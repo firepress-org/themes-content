@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_gene
 
 https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-author-profile.jpg
 
-https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-background.jpg
+https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-cover.jpg
 
 https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-favicon.ico
 
