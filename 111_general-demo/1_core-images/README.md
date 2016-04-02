@@ -1,17 +1,14 @@
 ## absolute url for picture in "111_general-demo"
 
-1) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-author-profile.jpg
+### 1) core-author-profile.jpg
 
-2) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-author-banner.jpg
+### 2) core-author-banner.jpg
+https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/1_core-images/core-author-banner.jpg
 
-3) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-logo-transparent.gif
+### 3) core-blog-logo-transparent.gif
 
-4) core-blog-cover.jpg
-
-copy paste the Base64 version: https://gist.github.com/pascalandy/d60349deec2c54947c2d3e03bf9abeff
-
-or
-
+### 4) core-blog-cover.jpg
+https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/1_core-images/core-blog-cover.jpg
 
 
 
