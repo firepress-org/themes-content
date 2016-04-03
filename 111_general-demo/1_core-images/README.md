@@ -1,4 +1,4 @@
-## absolute url for picture in "111_general-demo"
+## absolute url for picture in "1_core-images"
 
 ### core-author-cover.jpg
 https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/1_core-images/core-author-cover.jpg
