@@ -1,17 +1,17 @@
 ## absolute url for picture in "111_general-demo"
 
-1) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-author-profile.jpg
+1) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/core-author-profile.jpg
 
-2) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-author-banner.jpg
+2) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/core-author-banner.jpg
 
-3) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-logo-transparent.gif
+3) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/core-blog-logo-transparent.gif
 
-4) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-cover.jpg
+4) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/core-blog-cover.jpg
 
-5) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-about-me-page.jpg
+5) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/core-about-me-page.jpg
 
-6) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/post-im-a-pretty-post.jpg
+6) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/post-im-a-pretty-post.jpg
 
-7) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/what-can-you-do-with-your-new-blog.jpg
+7) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/what-can-you-do-with-your-new-blog.jpg
 
-8) https://raw.githubusercontent.com/publiodigital-com/demo-content/master/111_general-demo/core-blog-favicon.ico
+8) https://raw.githubusercontent.com/firepress-org/demo-content/master/111_general-demo/core-blog-favicon.ico
