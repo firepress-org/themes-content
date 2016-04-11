@@ -6,5 +6,3 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/444-all-im
 
 ### cluster-federation.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/444-all-images/cluster-federation.jpg
-
-
