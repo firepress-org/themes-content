@@ -1,13 +1,12 @@
 .section-splash {
   padding-top: 80px;
+  padding-bottom: 30px;
 }
 
 .body-main {
-  background-image: url('../images/background.jpg');
-  background-position: 50% 0px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-image: -webkit-radial-gradient(circle farthest-side at 50% 50%, #ddf6ff, hsla(0, 0%, 100%, .1)), url('../images/background.jpg');
+  background-image: radial-gradient(circle farthest-side at 50% 50%, #ddf6ff, hsla(0, 0%, 100%, .1)), url('../images/background.jpg');
+  background-position: 0px 0px, 50% 0px;
   font-size: 18px;
   line-height: 48px;
   text-align: center;
@@ -20,7 +19,7 @@
   margin-left: auto;
   padding: 50px 20px;
   border-radius: 4px;
-  background-color: #f5f5f5;
+  background-color: #eee;
 }
 
 .ctn-splash {
@@ -73,18 +72,21 @@
 .button {
   padding: 2px 22px;
   border-radius: 4px;
-  background-color: #2d69b6;
+  background-color: #05678d;
   font-family: Lato, sans-serif;
+  color: #eee;
   font-size: 1em;
+  text-decoration: none;
 }
 
 .hash-links {
   display: inline-block;
   padding: 15px 10px;
   font-family: Lato, sans-serif;
-  color: #a2a2a2;
+  color: rgba(5, 103, 141, .5);
   font-size: 0.8em;
   line-height: 0.5em;
+  letter-spacing: 0.5px;
   text-decoration: none;
 }
 
@@ -97,7 +99,7 @@
 }
 
 .flashy-color {
-  color: #e49929;
+  color: #ffbb14;
 }
 
 @media (max-width: 991px) {
@@ -111,7 +113,7 @@
     padding-top: 20px;
   }
   .profile-background {
-    width: 90%;
+    width: 82%;
     padding: 30px 20px;
   }
   .div-img-profile {
@@ -137,7 +139,7 @@
 
 @media (max-width: 479px) {
   .section-splash {
-    padding-top: 60px;
+    padding-top: 50px;
   }
   .profile-background {
     width: 94%;
@@ -157,6 +159,8 @@
     line-height: 0.5em;
   }
   .div-hash-links {
+    margin-right: -10px;
+    margin-left: -10px;
     line-height: 1em;
   }
 }
