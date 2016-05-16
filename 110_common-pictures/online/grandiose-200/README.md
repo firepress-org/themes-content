@@ -2,7 +2,7 @@
 
 ### URL
 
-https://raw.githubusercontent.com/firepress-org/themes-content/master/110_common-pictures/online/grandiose-a/grandiose101.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/110_common-pictures/online/grandiose-200/grandiose201.jpg
 
 **markdown**
 
