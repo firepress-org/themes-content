@@ -2,7 +2,11 @@ TITLE: What can you do with your new site?
 
 As you know, FirePress use the open source platform **Ghost**. 
 
-Here is a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at `<your blog URL>/ghost/`. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!
+## Login
+
+Here is a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at `somename.firepress.org/ghost/` where 'somename' is your dedicated sub-domain.
+
+When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!
 
 ## Getting Started
 
