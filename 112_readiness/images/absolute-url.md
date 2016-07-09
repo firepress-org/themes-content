@@ -16,4 +16,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
 
 ### blurry-warmy.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/blurry-warmy.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/blurry-warmy-b.jpg
+
+### book.jpg
+
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/book.jpg
