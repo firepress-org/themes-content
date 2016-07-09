@@ -23,3 +23,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### white-coffee-b.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-coffee-b.jpg
+
+### mobile-first-a.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first-a.jpg
