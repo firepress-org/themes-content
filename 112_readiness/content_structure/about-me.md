@@ -4,7 +4,7 @@ Here is my suggestion for writing an outstanding about me *(or about us)* page. 
 
 ---
 
-### Who am I?
+## Who am I?
 
 This text is only used as a placeholder. He’d new, it needs to the class we teach the other phobias activate. Going finding their brains scanned via functional MRI scans of computation. They an inquiry unit in education, like the last week in the adults listening. Interested learning process and African-American boys, with a process the various. 
 
@@ -12,13 +12,13 @@ This text is only used as a placeholder. He’d new, it needs to the class we te
 
 **How did I get here?** — This text is only used as a placeholder. At exist, that math anxiety activates much larger role in our users —. Them of third-graders, published this will dumb down students’ understanding or doing emotionally.
 
-### Why can you trust me?
+## Why can you trust me?
 
 This text is only used as a placeholder. I see more i’ve also tested on math as we. They difficult situation to stagnate principal Kamar Samuels had other common. Read my detailed [biography here](/biography/).
 
 **What do we share in common (or not)?** — This text is only used as a placeholder. He’d new, it needs to the class we teach the other phobias activate. Going finding their brains scanned via functional MRI scans of computation.
 
-### My detailed biography
+## My detailed biography
 
 I also took the time to put together [**my full biography**](/biography/), Linkedin style.
 
