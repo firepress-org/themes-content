@@ -12,3 +12,5 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-author-profile.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 
+### life-is-good.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
