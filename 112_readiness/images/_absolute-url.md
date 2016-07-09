@@ -29,3 +29,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### profile-jane.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-jane.jpg
+
+### white-at-the-office.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg
