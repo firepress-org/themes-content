@@ -1,4 +1,4 @@
-*The content below is a placeholder. Feel free to make it your own, edit it, delete it*.
+*See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
 ---
 
@@ -13,7 +13,7 @@ You should be able to find quickly these posts & pages:
 - You rock! (aka, your site is online)
 - Let me help you
 - Contact
-- About Me
+- About me
 - Biography
 
 ... and elements like:
@@ -22,15 +22,17 @@ You should be able to find quickly these posts & pages:
 - Post/Pages
 - Pictures in headers
 - Picture in posts/pages
-- Embed a youtube videos
+- Embed a YouTube videos
 - Configure the navigation
 - ... and all the basic stuff you expect for great basic `Stage 1` website. 
 
+---
+
 ### Start your journey
 
-As a the **owner** and the **publisher** of this site, take 5-10 minutes to get familiar about posting new content on your site. We carefully prepared some documentation for you so can will be rocking the web in minutes.
+As a the **owner** and the **publisher** of this site, take 5-10 minutes to get familiar about posting new content on your site. We carefully prepared [this](http://blog.firepress.org/learn/) documentation. You will rock the web in *(dozens of)* minutes.
 
-See you at **http://blog.firepress.org/learn/**
+[**blog.firepress.org/learn**](http://blog.firepress.org/learn/)
 
 --- 
 
@@ -40,6 +42,8 @@ To avoid overwhelming you, **I consciously left out many things** you can do wit
 
 - Edit SEO for you content
 - Work with tags
+- Tables (basic)
+- Pricing tables
 - Manage picture albums and visual first websites
 - Embed all types of external source (audio, slides, pdf, download link, e-commerce, online payment, etc.)
 - Using icons from [Font Awesome](http://fontawesome.io/icons/) 
@@ -53,5 +57,5 @@ Nadine — FirePress Team
 
 ---
 
-P.S. We've made everything possible to make your on boarding experience as smooth as humanly possible. This is a religion for us. So, **if something is not clear**, please reply to the welcome email we sent you previously and let us know :)
+P.S. We've done everything possible to make your "onboarding experience" as smooth as humanly possible. For us, this is like a religion. So, **if something is not clear**, please reply to the welcome email we sent you previously and let us know :)
 <br>

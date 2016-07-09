@@ -1,10 +1,10 @@
-*The content below is a placeholder. Make it your own!*
+*See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
 ---
 
 If you want to help people to get to know you, a biography is one of the best way to do it. It can be seen as a long version of your about me page. It's all matter of taste at the end.
 
-**May 1999** - This text is used as a placeholder. Those words that will follow won’t make any sense whatsoever which is fine. At the moment, the goal is to build a structure for our site. Of that continues to link the article anonymously modern art freud inferred. Eventually primitive brothel scene with a distinction The Enlightenment criticized from the history. Material Wolfgang Goethe and official favor the birth of. Arts, to a similar work schnaase's Niederländische Briefe established the concept of support. By to the advocates of the history for a book winckelmann.
+**May 1999** - This text is used as a placeholder. Those words that will follow won’t make any sense whatsoever which is fine. At the moment, the goal is to build a structure for our site. Of that continues to link the article anonymously modern art freud inferred. Eventually primitive brothel scene with a distinction The Enlightenment criticized from the history. Material Wolfgang Goethe and official favor the birth of. Arts, to a similar work schnaase's Niederländische Briefe established the concept of support. By to the advocates of the history for a book winckelmann. 
 
 **June 2000** — From understanding of the day worked either through 1912 analytic. And criticised Vasari's cult of a broader term that the date. He the periods of the 20th century Henri Matisse and other young artists. Philosophical date perhaps most successful painters like Vincent van Gogh, Paul Cézanne. Of that all depiction of The Dance signified a national. Psyche broader term that the direct inspiration for Advanced Study. 
 
