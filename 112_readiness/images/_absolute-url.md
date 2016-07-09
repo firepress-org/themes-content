@@ -26,3 +26,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### mobile-first-a.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first-a.jpg
+
+### profile-jane.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-jane.jpg
