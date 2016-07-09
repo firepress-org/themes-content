@@ -1,7 +1,7 @@
 ## absolute url for /111_general-demo/images/
 
-### core-blog-logo.gif
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo.jpg
+### core-blog-logo.png
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo.png
 
 ### core-blog-cover.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
