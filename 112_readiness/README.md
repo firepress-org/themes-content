@@ -50,6 +50,8 @@ GNU GENERAL PUBLIC LICENSE | Version 3, 29 June 2007 | See it [here](https://git
 **No matter how I thurst the open source community, I feel it not best practice to**: 
 
 - 1) Use a link that points to a licence writen by a third party
-- 2) Use license(s) proposed by GitHub by default. 
+- 2) Use license(s) proposed by GitHub
 
-If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you would put yourself in a position where you may lose the control of what the licence was suppose to mean from the moment you read it. Everyone should fork the license they want to use on there own repos. The one I use is [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md). Feel free to fork it :)
+If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you could put yourself in a position where you may lose the control of what the licence was suppose to mean at the moment you read it.
+
+I believe everyone should fork the license they want to use on their own repos. The one I use is [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md). Feel free to fork it :)
