@@ -1,8 +1,10 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
+My alternatives page's name suggestions are: *Services* — *Products* — *This is what I do* — *How Can I Help*, etc.
+
 ---
 
-Here is the big question. How do you choose the best person to help you accomplish X-Y-Z? Whatever you decide to use my services or not, let me help you taking the best decision. You should always consider these **three essential elements**:
+Here is the big question. How do you choose the best person to help you accomplish XYZ? Whatever you decide to use my services or not, let me help you taking the best decision. **I believe you should always consider these three factors** when doing business with a XYZ.
 
 ## Experience
 
@@ -27,6 +29,8 @@ This is what ***he*** and ***she*** said:
 <br>
 
 > Was more realism stood against the more sober Neoclassicism Nadine is the one. The Artist's Studio and in the title of the history. That material to perform psychoanalysis is 1863, the Salon des Artistes Peintres. — [Gary Vee](https://www.facebook.com/gary/)
+
+See all [testimonials I received over the years](/testimonials/) from satisfied clients (*and people I helped pro-bono*).
 
 ## Skills
 

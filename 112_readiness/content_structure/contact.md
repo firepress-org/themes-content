@@ -1,5 +1,7 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
+My alternatives page's name suggestions are: *Contact me* — *Contact us*.
+
 ---
 
 To email me [use this form](http://goo.gl/forms/4B5zzHhXphbtMzh93). I'm also active on [Twitter](https://twitter.com/_pascalandy), [Facebook](https://www.facebook.com/pascalandy1) and [Linkedin](Profil publichttps://ca.linkedin.com/in/pascalnguyendeschenes).
@@ -19,4 +21,4 @@ Montréal  Québec  Canada H4G 3M6
 
 ---
 
-<i class="fa fa-home" aria-hidden="true"></i> [Back home](/)
+<i class="fa fa-home" aria-hidden="true"></i> Go back [on the home](/) page.

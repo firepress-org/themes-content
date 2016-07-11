@@ -1,10 +1,14 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
+My alternatives page's name suggestions are: *Bio* — *How it started* — *This is how ACME started* — *Just like that ACME was born* — *My History* — *Our History*.
+
 ---
 
 If you want to help people to get to know you, a biography is one of the best way to do it. It can be seen as a long version of your about me page. It's all matter of taste at the end.
 
 **May 1999** - This text is used as a placeholder. Those words that will follow won’t make any sense whatsoever which is fine. At the moment, the goal is to build a structure for our site. Of that continues to link the article anonymously modern art freud inferred. Eventually primitive brothel scene with a distinction The Enlightenment criticized from the history. Material Wolfgang Goethe and official favor the birth of. Arts, to a similar work schnaase's Niederländische Briefe established the concept of support. By to the advocates of the history for a book winckelmann. 
+
+![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg)
 
 **June 2000** — From understanding of the day worked either through 1912 analytic. And criticised Vasari's cult of a broader term that the date. He the periods of the 20th century Henri Matisse and other young artists. Philosophical date perhaps most successful painters like Vincent van Gogh, Paul Cézanne. Of that all depiction of The Dance signified a national. Psyche broader term that the direct inspiration for Advanced Study. 
 
@@ -12,9 +16,7 @@ If you want to help people to get to know you, a biography is one of the best wa
 
 **September 2002** — But idea that enjoyed public exhibitions the learned beholder and therefore. Capture this work thus were Gedanken über die Nachahmung der Kunst. 
 
-**October 2002** — All founders of the founders of art comes from antiquity to modern art. Panofsky, both of German culture winckelmann was 'the first real Modernist but. Michelangelo’s Moses des Altertums History of the Middle Ages and radical picture. From of an English translation in the University front of art at the teaching. Was more realism stood against the more sober Neoclassicism jacob Burckhardt 18181897, one. The Artist's Studio and in the title of the history. That material to perform psychoanalysis is 1863, the Salon des Artistes Peintres.
-
-![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/all-images/profile-mike.jpeg)
+**October 2002** — All founders of the founders of art comes from antiquity to modern art. Panofsky, both of German culture winckelmann was 'the first real Modernist but. Michelangelo’s Moses des Altertums History of the Middle Ages and radical picture.
 
 **Summer 2003** — AllThe loud for this meant that there's a huge hill. Twitter apps are developed to design a tipping point,. That Android, or even tastes, good does it on paper you prototype it. Orchestra of power of NYTimescom who conducts the device you're using it on.
 

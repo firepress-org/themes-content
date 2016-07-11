@@ -3,7 +3,7 @@
 ---
 
 ## 1) Welcome
-Hey there, I'm Sara! It's a big day for you and I want to congratulate you because ... **your website is online**. I did setup and preconfigured your website so you can quickly see how it feels.
+Hey there, I'm Sara! It's a big day for you and I want to congratulate you because... **your website is online**. I did setup and preconfigured your website so you can quickly see how it feels.
 
 I carefully edited the content with the elements you expect to see within a `Stage 1` website. Things like:
 
@@ -14,13 +14,14 @@ I carefully edited the content with the elements you expect to see within a `Sta
 - Embed an animated Gif (via GIPHY)
 - Organise the navigation (menu)
 
-So go for it and **take a moment to surf on your new website**! You will find these five posts & pages:
+So go for it and **take a moment to surf on your new website**! You will find these posts & pages:
 
 1. You rock! (aka, your site is online)
 2. Let me help you
 3. Contact
 4. About me
 5. Biography
+6. *(can you find the sixth one?)*
 
 > So tell me... how does it feels???
 
