@@ -62,6 +62,6 @@ As the **owner** and the **publisher** of your website, you have to get familiar
 
 ### Need help?
 
-At FirePress, we have done everything humanly possible to make your "onboarding experience" an outstanding one. But... **if something is not clear**, please reply to the welcome email we sent you previously and let us know :)
+At FirePress, we've done everything humanly possible to make your "onboarding experience" an outstanding one. But... **if something is not clear**, please reply to the welcome email we sent you previously and let us know :)
 
 Cheers!<br>Sara<br>
