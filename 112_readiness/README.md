@@ -1,9 +1,8 @@
-### Project Name
-themes-content/112_readiness
+**Project Name**: themes-content/112_readiness
 
-**Goal**: This is the default content we put into each new Ghost installation. This we way new client have a great idea about what their site can offer and how it looks.
+**GOAL**: This is the default **content** we setup for all new Ghost installation at FirePress. By doing this extra step for our clients, they can have a great idea about how their site feels like, and how it looks as the publisher.
 
-The content is defined by:
+The **content** here means:
 
 - copywriting files (markdown)
 - images
@@ -20,9 +19,7 @@ https://github.com/firepress-org/themes-content/blob/master/112_readiness/change
 https://github.com/firepress-org/themes-content/blob/master/112_readiness/README.md
 
 ### Who Wrote This?
-Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰<br>
-
-Find my on [Twitter](https://twitter.com/_pascalandy) and on my [personnal blog](http://pascalandy.com/)
+Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰. Find my on [Twitter](https://twitter.com/_pascalandy) and on my [personnal blog](http://pascalandy.com/)
 
 ### Download
 Not ready for prime time yet. Many stuff to clean.
