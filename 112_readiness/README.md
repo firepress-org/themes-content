@@ -1,6 +1,6 @@
 **Project Name**: themes-content/112_readiness
 
-**GOAL**: This is the default **content** we setup for all new Ghost installation at FirePress. By doing this extra step for our clients, they can have a great idea about how their site feels like, and how it looks as the publisher.
+**GOAL**: This is the default **content** we setup for all new Ghost installation at [FirePress](http://firepress.org/). By doing this extra step for our clients, they can have a great idea about how their site feels like. As new publishers, they can also see and understand how it made under the hood.
 
 The **content** here means:
 
