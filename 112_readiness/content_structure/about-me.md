@@ -1,6 +1,6 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
-Here is my suggestion for writing an outstanding about me *(or about us)* page. I highly recommend reading this post http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king
+The structure below was inspired by [this post](http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king) that I highly recommend.
 
 ---
 

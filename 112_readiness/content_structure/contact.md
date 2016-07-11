@@ -11,10 +11,12 @@ To email me [use this form](http://goo.gl/forms/4B5zzHhXphbtMzh93). I'm also act
 Montréal  Québec  Canada H4G 3M6
 514-123-4567
 
+[Open in Google Map](https://www.google.ca/maps/@45.458924,-73.5743224,15.08z)
+
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map2.jpg)
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map1.jpg)
 
 ---
 
-See [what I can do for you](/let-me-help-you/).
+<i class="fa fa-home" aria-hidden="true"></i> [Back home](/)

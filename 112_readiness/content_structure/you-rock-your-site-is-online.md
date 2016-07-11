@@ -2,49 +2,35 @@
 
 ---
 
-Hey there!
+## 1) Welcome
+Hey there, I'm Sara! It's a big day for you and I want to congratulate you because ... **your website is online**. I did setup and preconfigured your website so you can quickly see how it feels.
 
-I'm Nadine. Let me congratulate you because your site is up and running (and it's rock solid if you ask me).
+I carefully edited the content with the elements you expect to see within a `Stage 1` website. Things like:
 
-I preconfigured your website to help you quickly see the possibilities by yourself. Take a moment to navigate your site!
-
-You should be able to find quickly these **posts & pages**:
-
-- You rock! (aka, your site is online)
-- Let me help you
-- Contact
-- About me
-- Biography
-
-I made basic formatting like:
-
-- Bold, italic, link, title 
-- Pictures in headers
-- Picture in posts/pages
-- Embed a YouTube videos
-- Embed a GIPHY gif
+- Titles, links, bold, italic, etc.
+- Pictures in the headers of each post & page
+- Picture within a post & page
+- Embed a YouTube video
+- Embed an animated Gif (via GIPHY)
 - Organise the navigation (menu)
-- ... and all the basic stuff you expect for great basic `Stage 1` website. 
 
-So, how does it feels?
+So go for it and **take a moment to surf on your new website**! You will find these five posts & pages:
 
-<div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/gZq7GstcdqVXi/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
+1. You rock! (aka, your site is online)
+2. Let me help you
+3. Contact
+4. About me
+5. Biography
 
----
+> So tell me... how does it feels???
 
-## Start your journey
-
-As a the **owner** and the **publisher** of this site, take 5-10 minutes to get familiar about posting new content on your site. We carefully prepared [this](http://blog.firepress.org/learn/) documentation. You will rock the web in minutes.
-
-[**blog.firepress.org/learn**](http://blog.firepress.org/learn/)
+> <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/gZq7GstcdqVXi/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 
 --- 
 
-## Features I left out
+## 2) One step a time
 
-<div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/6ZW5f40T12iLS/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
-
-To avoid overwhelming you, **I consciously left out many things** you can do with your website when I preconfigured it. When you will be ready to move on to a `Stage 2` website, you will be able to do things like:
+During the setup, **I consciously left out many things** you can do with your website. I made this decision in order to not overwhelm you. When you will be ready to move on to a `Stage 2` website, you will be able to do things like:
 
 - Edit SEO for you content
 - Work with tags
@@ -59,7 +45,22 @@ To avoid overwhelming you, **I consciously left out many things** you can do wit
 - Add Analytics
 - etc.
 
-## Need help?
+**So please take it one step at a time :)** Becoming a publisher it not a small task. It's a mindset that takes time. For now, don't worry at about features that might by missing in your preconfigured website.
 
-At FirePress, we have done everything possible to make your "onboarding experience" as smooth as humanly possible. For us, this is like a religion. So, **if something is not clear**, please reply to the welcome email we sent you previously and let us know :)
-<br>
+<div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/6ZW5f40T12iLS/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
+
+---
+
+## 3) Start your journey here
+
+As the **owner** and the **publisher** of your website, you have to get familiar about editing and posting content on your site. We carefully prepared [a step-by-step checklist](http://blog.firepress.org/learn/) so can develop your skills at your own pace.
+
+[**blog.firepress.org/learn**](http://blog.firepress.org/learn/)
+
+---
+
+### Need help?
+
+At FirePress, we have done everything humanly possible to make your "onboarding experience" an outstanding one. But... **if something is not clear**, please reply to the welcome email we sent you previously and let us know :)
+
+Cheers!<br>Sara<br>
