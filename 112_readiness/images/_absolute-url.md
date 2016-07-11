@@ -39,5 +39,5 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### map2.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map2.jpg
 
-### testimonials.png
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials.png
+### testimonials-2.png
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-b.png
