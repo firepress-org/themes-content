@@ -3,15 +3,15 @@
 ---
 
 ## 1) Welcome
-Hey there, I'm Sara! It's a big day for you and I want to congratulate you because... **your website is online**. I did setup and preconfigured your website so you can quickly see how it feels.
+Hey there, I'm Sara! It's a big day for you and I want to congratulate you because... Your rock! **Your website is online** 👌. I setup and preconfigured your website so you can quickly see how it feels. Sounds fair?
 
-I carefully edited the content with the elements you expect to see within a `Stage 1` website. Things like:
+You will see I carefully edited the content with elements you expect to see within a `Stage 1` website. Things like:
 
 - Titles, links, bold, italic, etc.
 - Pictures in the headers of each post & page
 - Picture within a post & page
-- Embed a YouTube video
-- Embed an animated Gif (via GIPHY)
+- Embed YouTube videos
+- Embed animated GIF
 - Organise the navigation (menu)
 
 So go for it and **take a moment to surf on your new website**! You will find these posts & pages:
@@ -31,7 +31,7 @@ So go for it and **take a moment to surf on your new website**! You will find th
 
 ## 2) One step a time
 
-During the setup, **I consciously left out many things** you can do with your website. I made this decision in order to not overwhelm you. When you will be ready to move on to a `Stage 2` website, you will be able to do things like:
+During your website's setup, **I consciously left out many elements** you could put on your website. **I made this decision in order to not overwhelm you**. When you will be ready to move on to a `Stage 2` website, you will be able to do fancy things like:
 
 - Edit SEO for you content
 - Work with tags
@@ -46,7 +46,7 @@ During the setup, **I consciously left out many things** you can do with your we
 - Add Analytics
 - etc.
 
-**So please take it one step at a time :)** Becoming a publisher it not a small task. It's a mindset that takes time. For now, don't worry at about features that might by missing in your preconfigured website.
+To conclude on this point, **here is my advice**: take it one step at a time. Don't rush things. Becoming a publisher and **running a website that acts like your impresario** it not a small task. It's a mindset that takes time even for great marketers. For now, don't worry at about features that might by missing in your preconfigured website.
 
 <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/6ZW5f40T12iLS/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 
