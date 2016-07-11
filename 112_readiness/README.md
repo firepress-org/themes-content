@@ -13,7 +13,7 @@ This is not for developper and anyone should be able to create it's own landing 
 TODO
 
 ### Repo URL
-https://github.com/firepress-org/themes-content
+https://github.com/firepress-org/themes-content/blob/master/112_readiness/README.md
 
 ### Who Wrote This?
 Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰<br>https://twitter.com/_pascalandy
@@ -28,7 +28,7 @@ Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰<br>https:
 5. Submit a pull request :D
 
 ### History (changelog)
-https://github.com/firepress-org/splashy/blob/master/changelog.md
+https://github.com/firepress-org/themes-content/blob/master/112_readiness/changelog.md
 
 ### Backlog
 TODO
