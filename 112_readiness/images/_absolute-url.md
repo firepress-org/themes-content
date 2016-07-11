@@ -45,5 +45,5 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### testimonials-d.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-d.jpg
 
-### tags-background.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/tags-background.jpg
+### tags-background-b.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/tags-background-b.jpg
