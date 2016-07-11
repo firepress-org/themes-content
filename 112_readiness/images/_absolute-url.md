@@ -30,6 +30,9 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### profile-jane.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-jane.jpg
 
+### profile-mike.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg
+
 ### white-at-the-office.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg
 
@@ -39,5 +42,5 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### map2.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map2.jpg
 
-### testimonials-c.png
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-c.png
+### testimonials-d.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-d.jpg
