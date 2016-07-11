@@ -1,8 +1,17 @@
 ### Project Name
 themes-content/112_readiness
 
+**Goal**: This is the default content we put into each new Ghost installation. This we way new client have a great idea about what their site can offer and how it looks.
+
+The content is defined by:
+
+- copywriting files (markdown)
+- images
+- backup files (json)
+- infography file (Keynote, Photoshop)
+
 ### Live Demo
-TODO
+WIP. Not yet it's too soon.
 
 ### History (changelog)
 https://github.com/firepress-org/themes-content/blob/master/112_readiness/changelog.md
