@@ -36,11 +36,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### white-at-the-office.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg
 
-### map1.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map1.jpg
-
-### map2.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map2.jpg
+### map3.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg
 
 ### testimonials-d.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-d.jpg
