@@ -1,4 +1,8 @@
-# FirePress Default Installation
+# changelog.md 
+for FirePress Default Installation
+
+### 1.01 
+- tk
 
 ### 1.0 2016-07-16_12h37
 - It contains 7 pages and posts
