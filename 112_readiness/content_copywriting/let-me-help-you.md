@@ -1,6 +1,6 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
-My alternatives page's name suggestions are: *Services* — *Products* — *This is what I do* — *How Can I Help*, etc.
+Another page name you might prefer: *Services*—*Products*—*This is what I do*—*How Can I Help*, etc.
 
 ---
 
@@ -10,7 +10,7 @@ Here is the big question. How do you choose the best person to help you accompli
 
 This text is used as a placeholder. Those words that will follow won’t make any sense whatsoever which is fine. At the moment, the goal is to build a structure for our site. Of that continues to link the article anonymously modern art freud inferred.
 
-Checkout also [my full bio](/biography/). Facts don't lie.
+Checkout also [my full bio](/biography/). Facts don’t lie.
 
 ## Testimonials
 

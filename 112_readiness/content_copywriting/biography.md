@@ -1,6 +1,6 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
-My alternatives page's name suggestions are: *Bio* — *How it started* — *This is how ACME started* — *Just like that ACME was born* — *My History* — *Our History*.
+Another page name you might prefer: *Bio*—*How it started*—*This is how ACME started*—*Just like that ACME was born*—*My Story*—*Our Story*—*Back in time*.
 
 ---
 

@@ -1,6 +1,6 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
-The structure below was inspired by [this post](http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king). I highly recommend that you read it. My alternatives page's name suggestions are: *About* — *About us* — *Welcome* — *Home*.
+The structure below was inspired by [this post](http://99u.com/articles/7025/the-resume-is-dead-the-bio-is-king). I highly recommend that you read it. Another page name you might prefer: *My Story*—*About*—*About us*—*Welcome*—*Home*.
 
 ---
 
@@ -27,3 +27,4 @@ I also took the time to put together [**my full biography**](/biography/), Linke
 ---
 
 Buzz me at anytime and meet me on my [contact](/contact/) page.
+

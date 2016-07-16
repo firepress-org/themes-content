@@ -1,6 +1,6 @@
 *See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
 
-My alternatives page's name suggestions are: *They said* — *Reviews*.
+Another page name you might prefer: *They said*—*Reviews*.
 
 ---
 
@@ -8,9 +8,9 @@ My alternatives page's name suggestions are: *They said* — *Reviews*.
 
 - A screenshot of a "good job" SMS messages
 - Pictures of gifts you received from clients
-- Picture of an event where you received a price from your pears
+- Picture of an event where you received a prize from your pears
 - Video — Interview a client and let him/her express how you helped
-- Share an emails copy
+- Share an email copy
 - Use GIF that share the spirit of your testimonials
 - etc.
 
