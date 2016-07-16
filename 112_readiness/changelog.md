@@ -2,7 +2,7 @@
 for FirePress Default Installation
 
 ### 1.01 
-- tk
+- fix backup, there was two users
 
 ### 1.0 2016-07-16_12h37
 - It contains 7 pages and posts
