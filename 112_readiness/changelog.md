@@ -1,6 +1,10 @@
 # changelog.md 
 for FirePress Default Installation
 
+### 1.03 dev
+- tk
+- tk
+
 ### 1.02 2016-07-16_15h17
 - fix Sara’ user name url to `sara-firepress-team`
 - export backup
