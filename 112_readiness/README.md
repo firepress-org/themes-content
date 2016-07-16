@@ -1,4 +1,4 @@
-### Project Name
+### FirePress Default Installation
 themes-content/**112_readiness**
 
 ### Goal
@@ -12,7 +12,7 @@ Specifically, this is the default **content** we use for all new Ghost installat
 - copywriting files (markdown)
 - images
 - backup files (json)
-- infography file (Keynote, Photoshop)
+- infographic file (Keynote, Photoshop)
 
 ### Live Demo
 WIP. Not yet it's too soon.
@@ -24,7 +24,7 @@ https://github.com/firepress-org/themes-content/blob/master/112_readiness/change
 https://github.com/firepress-org/themes-content/blob/master/112_readiness/README.md
 
 ### Who Wrote This?
-Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰. Your can find me on [Twitter](https://twitter.com/_pascalandy) and on my [personnal blog](http://pascalandy.com/)
+Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰. You can find me on [Twitter](https://twitter.com/_pascalandy) and on my [personal blog](http://pascalandy.com/)
 
 ### Download
 Not ready for prime time yet. Many stuff to clean.
@@ -44,14 +44,14 @@ null
 ### Issues 
 null
 
-### License
+### Licence
 GNU GENERAL PUBLIC LICENSE | Version 3, 29 June 2007 | See it [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
 
-**No matter how I thurst the open source community, I feel it not best practice to**: 
+**No matter how I thrust the open source community, I feel it not best practice to**: 
 
-- 1) Use a link that points to a license writen by a third party
-- 2) Use license(s) proposed by GitHub
+- 1) Use a link that points to a licence written by a third party
+- 2) Use licence(s) proposed by GitHub
 
-If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you could put yourself in a position where you may lose the control of what the license was suppose to mean at the moment you read it.
+If any changes happen, how do you know it's still right for you? By using scenario #1 or #2, you could put yourself in a position where you may lose the control of what the licence was supposed to mean at the moment you read it.
 
-I believe everyone should fork the license they want to use on their own repos. The one I use is [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md). Feel free to fork it :)
+I believe everyone should fork the licence they want to use on their own repos. The one I use is [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md). Feel free to fork it :)
