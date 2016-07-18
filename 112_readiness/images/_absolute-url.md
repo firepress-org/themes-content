@@ -44,3 +44,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### tags-background-d.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/tags-background-d.jpg
+
+### Resume_Example_Pascal_Andy_2016-07-17.pdf
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/content_copywriting/Resume_Example_Pascal_Andy_2016-07-17.pdf
