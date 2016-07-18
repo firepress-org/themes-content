@@ -6,19 +6,15 @@ Another page name you might prefer: *They said*—*Reviews*.
 
 **Sara's advice** — Here are some ideas for you:
 
-- A screenshot of a "good job" SMS messages
-- Pictures of gifts you received from clients
-- Picture of an event where you received a prize from your pears
-- Video — Interview a client and let him/her express how you helped
-- Share an email copy
+- Show a SMS screenshot of a `Good job! Thank you!`
+- Put pictures of gifts you received from clients
+- Put picture of an event where you received a prize from your pears
+- Insert a video — Interview a client and let him/her express how you helped
+- Show an email screenshot of a testimonial
 - Use GIF that share the spirit of your testimonials
 - etc.
 
-Get creative it's not that hard to show your credibility :)
-
-> "Sara is like a 5 stars movie! Sara cares like no one on earth. ❤️❤️❤️❤️❤️."
-
-> — [Pascal Andy](http://pascalandy.com/), The founder of FirePress
+Get creative it's not that hard to show your credibility 
 
 <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/wrzf9P70YWLJK/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 

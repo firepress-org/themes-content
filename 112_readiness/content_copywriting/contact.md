@@ -5,7 +5,7 @@ Another page name you might prefer: *Contact me*—*Contact us*.
 ---
 
 **My Brand**<br>
-Sara Lancôme, co-founder
+Sara Lancôme
 5145 Rue Wellington
 Montréal Québec Canada H4G 3M6
 514-123-4567

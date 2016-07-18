@@ -32,7 +32,7 @@ So go for it and **take a moment to surf on your new website**! You will find th
 
 ## 2) One step a time
 
-During your website's setup, **I left out many elements** that could be included on your website. **I made this decision not to overwhelm you**. When you are ready to move on to a `Stage 2` website, you will be able to do fancy things like:
+When I setup your website, **I left out many elements** that could be included on your website. **I made this decision not to overwhelm you**. When you are ready to move on to a `Stage 2` website, you will be able to do fancy things like:
 
 - Edit SEO for you content
 - Work with tags
@@ -48,8 +48,8 @@ During your website's setup, **I left out many elements** that could be included
 - Add Analytics
 - etc.
 
-To conclude on this point, **here is my advice**: take it one step at a time. Don't rush things. Becoming a publisher and **running a website that acts like your impresario** it not a small task. It's a mindset that takes time even for great marketers. For now, don't worry at about all the options.
-## 
+To conclude on this point, **here is my advice**: take it one step at a time. Don't rush things. Becoming a publisher and **running a website that acts like your impresario** it not a small task. It's a mindset that takes time even for great marketers. For now, don't worry about all options.
+
 <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/6ZW5f40T12iLS/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 
 ---
