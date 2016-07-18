@@ -4,7 +4,7 @@ Another page name you might prefer: *Bio*—*How it started*—*This is how ACME
 
 ---
 
-If you want to help people to get to know you, a biography is one of the best way to do it. It can be seen as a long version of your about me page. It's all matter of taste at the end.
+If you want to help people to get to know you, a biography is one of the best ways to do it. It can be seen as a long version of your about me page. It's all about taste at the end. If you prefer, you can see my PDF resume [here](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/content_copywriting/Resume_Example_Pascal_Andy_2016-07-17.pdf) or [here](http://jmp.sh/G7yNKXq) on jumpshare.
 
 **May 1999** - This text is used as a placeholder. Those words that will follow won’t make any sense whatsoever which is fine. At the moment, the goal is to build a structure for our site. Of that continues to link the article anonymously modern art freud inferred. Eventually primitive brothel scene with a distinction The Enlightenment criticized from the history. Material Wolfgang Goethe and official favor the birth of. Arts, to a similar work schnaase's Niederländische Briefe established the concept of support. By to the advocates of the history for a book winckelmann. 
 
@@ -18,7 +18,7 @@ If you want to help people to get to know you, a biography is one of the best wa
 
 **October 2002** — All founders of the founders of art comes from antiquity to modern art. Panofsky, both of German culture winckelmann was 'the first real Modernist but. Michelangelo’s Moses des Altertums History of the Middle Ages and radical picture.
 
-**Summer 2003** — AllThe loud for this meant that there's a huge hill. Twitter apps are developed to design a tipping point,. That Android, or even tastes, good does it on paper you prototype it. Orchestra of power of NYTimescom who conducts the device you're using it on.
+**Summer 2003** — AllThe loud for this meant that there's a huge hill. Twitter apps are developed to design a tipping point,. That Android, or even tastes, good does it on paper you prototype it. Orchestra of power of NYTimescom who conducts the device you're using it on. This event was exceptional! See the video below:
 
 <div><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/9Sc-ir2UwGU?wmode=transparent&rel=0&autohide=1&showinfo=0&enablejsapi=1" frameborder="0" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div></div>
 <br>

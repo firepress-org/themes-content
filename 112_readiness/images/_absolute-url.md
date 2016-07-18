@@ -47,3 +47,33 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### Resume_Example_Pascal_Andy_2016-07-17.pdf
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/content_copywriting/Resume_Example_Pascal_Andy_2016-07-17.pdf
+
+### beauty-shots101.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg
+
+### beauty-shots102.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots102.jpg
+
+### beauty-shots103.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots103.jpg
+
+### beauty-shots104.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots104.jpg
+
+### beauty-shots105.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots105.jpg
+
+### beauty-shots106.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots106.jpg
+
+### beauty-shots107.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots107.jpg
+
+### beauty-shots108.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
+
+### beauty-shots109.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
+
+### beauty-shots110.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg
