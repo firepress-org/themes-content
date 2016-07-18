@@ -2,7 +2,10 @@
 for FirePress Default Installation
 
 ### 1.03 dev
-- tk
+- new backup: FirePress_Default_Installation_2016-07-17_14h26.json
+- Preconfiguration use two users: 
+	- `Sara (FirePress Team)` administrator rights
+	- clients user, owner rights
 - tk
 
 ### 1.02 2016-07-16_15h17
