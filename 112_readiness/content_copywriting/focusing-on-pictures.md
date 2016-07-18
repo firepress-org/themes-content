@@ -42,7 +42,7 @@ During my last trip around the world, I capture few pictures. Here are my favori
 - Lesson #1
 - Clickable image
 
-Another way to do it could be to use a "tag". In some case I would use both so there is to ways to see your albums. 
+Another way to do it could be to use a tag like *Album* or *Travel*. In some case I would use both so there is two ways to search your albums. See how Pascal [use this concept](http://blog.pascalandy.com/trouver-par-tags/) on his personal blog.
 
 ---
 
