@@ -1,8 +1,10 @@
 # changelog.md 
-for FirePress Default Installation
+for Default Ghost Content Installation
 
 ### 1.03 dev
 - new backup: FirePress_Default_Installation_2016-07-17_14h26.json
+- Picture and album demo
+	- 
 - Preconfiguration use two users: 
 	- `Sara (FirePress Team)` administrator rights
 	- clients user, owner rights

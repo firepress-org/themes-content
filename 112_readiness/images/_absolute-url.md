@@ -1,9 +1,9 @@
 ## absolute url for /111_general-demo/images/
 
-### core-author-cover.jpg
+### core-author-cover.jpg (for Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-cover.jpg
 
-### core-author-profile.jpg
+### core-author-profile.jpg (for Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 
 ### core-blog-logo.png
