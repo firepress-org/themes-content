@@ -1,15 +1,10 @@
 During my last trip around the world, I capture few pictures. Here are my favorites!
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg)
-
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots102.jpg)
-
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots103.jpg)
-
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots104.jpg)
-
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots105.jpg)
-
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots106.jpg)
 
 ---
@@ -36,13 +31,54 @@ During my last trip around the world, I capture few pictures. Here are my favori
 
 ---
 
-**Page aggregation** — In the case you would have many albums, you could have one main page (or post) where your visitor can preview all your albums. Another advantage of creating a dedicated `page aggregation` is SEO. To learn how to do this, go to:
+## Albums Preview
+
+Here is how to use pictures as your album previews.
+
+[![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_portfolio-preview/portefolio-preview_101.jpg)
+](/album-one/)
+
+> My first trip to Canada
+
+[![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_portfolio-preview/portefolio-preview_102.jpg)](/album-two/)
+
+> New-York
+
+[![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_portfolio-preview/portefolio-preview_103.jpg)](/album-three/)
+
+> Suisse
+
+**The fancy stuff** — The text slapped on top of those three pictures was produce using [Keynotes](http://www.apple.com/mac/keynote/). Of course, you can use this project for free too ;)
+
+### Preview albums from one page
+
+Creating a preview is the action of aggregating, "to combine" or to put things together. 
+
+When you have many-many-many photos and albums it's a great idea to create **previews** and aggregate your albums into one place. You could have one main page ([like this one](/focusing-on-pictures/)) where your visitor can preview a picture of each of your albums. 
+
+The same concept apply for videos or podcast. A great example is how Tim Ferris does it for it's [Podcast page](http://fourhourworkweek.com/podcast/).
+
+At the end, the whole idea is to make it easy for people to find what you have created. 
+
+To learn how create a link on a picture, go to:
 
 - http://blog.firepress.org/learn/
 - Lesson #1
 - Clickable image
 
-Another way to do it could be to use a tag like *Album* or *Travel*. In some case I would use both so there is two ways to search your albums. See how Pascal [use this concept](http://blog.pascalandy.com/trouver-par-tags/) on his personal blog.
+### Tags
+
+A more advanced concept is to use tags. Maybe you want to filter the way we see your work by 
+
+- #years
+- #country
+- #style *(i.e. fashion, events,  sports)*
+- #agencies
+- etc.
+
+Tag allows you to create a feed about a particular topic.
+
+In some case I would use both so there is two ways to search your albums. See how Pascal [use this concept](http://blog.pascalandy.com/trouver-par-tags/) on his personal blog.
 
 ---
 
