@@ -77,3 +77,9 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### beauty-shots110.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg
+
+### what-i-do.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/what-i-do.jpg
+
+### about-me.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me.jpg
