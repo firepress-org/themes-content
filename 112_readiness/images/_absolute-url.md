@@ -81,5 +81,5 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### what-i-do.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/what-i-do.jpg
 
-### about-me.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me.jpg
+### about-me-2.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me-2.jpg
