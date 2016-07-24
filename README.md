@@ -1,8 +1,10 @@
 ### FirePress Default Installation
 themes-content/**112_readiness**
 
-### Goal
+### Download
+https://github.com/firepress-org/themes-content/archive/master.zip
 
+### Goal
 At [FirePress](http://firepress.org/) 🔥📰, we empower creators, makers and organizations to build outstanding mobile-first websites, that speaks up for them.
 
 Specifically, this is the default **content** we use for all new Ghost installations at FirePress 🔥📰. By doing this extra step for our clients, they can see quickly how their brand new website feels like. As new publishers, they can also understand how it made under the hood.
@@ -15,19 +17,16 @@ Specifically, this is the default **content** we use for all new Ghost installat
 - infographic file (Keynote, Photoshop)
 
 ### Live Demo
-WIP. Not yet it's too soon.
+Almost there! 2016-07-23_21h09
 
 ### History (changelog)
-https://github.com/firepress-org/themes-content/blob/master/112_readiness/changelog.md
+https://github.com/firepress-org/themes-content/blob/master/changelog.md
 
 ### Repo URL
 https://github.com/firepress-org/themes-content/blob/master/112_readiness/README.md
 
 ### Who Wrote This?
 Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰. You can find me on [Twitter](https://twitter.com/_pascalandy) and on my [personal blog](http://pascalandy.com/)
-
-### Download
-Not ready for prime time yet. Many stuff to clean.
 
 ---
 
@@ -45,7 +44,7 @@ null
 null
 
 ### Licence
-GNU GENERAL PUBLIC LICENSE | Version 3, 29 June 2007 | See it [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
+GNU GENERAL PUBLIC LICENCE | Version 3, 29 June 2007 | See it [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
 
 **No matter how I thrust the open source community, I feel it not best practice to**: 
 
