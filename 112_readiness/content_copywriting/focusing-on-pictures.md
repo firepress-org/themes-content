@@ -18,44 +18,44 @@ During my last trip around the world, I capture few pictures. Here are my favori
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg)
 
-> This is how it looks with a horizontal bar and a quote
+> **Best practice** — Export your pictures with a width of 1280px (*the height does not matter*) in JPG format. Compress them with [JPEGmini](http://www.jpegmini.com/app) to ensure your site is loading very quickly. We all hate waiting while seeing picture loading right ?
 
 ---
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots109.jpg)
 
-> If only winter was not cold
+> If only winter was warm.
 
 ---
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg)
 
-> Soon, all these wagons won't have any drivers
+> Soon, all these wagons won't have any drivers.
 
 ---
 
-## Albums Preview
+# Albums Preview
 
 You can use a picture as a link. Try it, you can click on those three pictures below.
 
 [![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_portfolio-preview/portefolio-preview_101.jpg)
 ](/album-one/)
 
-> My first trip to Canada
+> My first trip to Canada, June 2014
 
 [![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_portfolio-preview/portefolio-preview_102.jpg)](/album-two/)
 
-> New-York
+> New-York, September 2015
 
 [![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_portfolio-preview/portefolio-preview_103.jpg)](/album-three/)
 
-> Suisse
+> Suisse, July 2016
 
 ---
 
 ## Fancy Stuff
 
-We addded the text over these picture by using [Keynotes](http://www.apple.com/mac/keynote/) and we have share our [keynote file](https://github.com/firepress-org/themes-content/tree/master/112_readiness/images/_keynote_project). It's from our open source [theme-content](https://github.com/firepress-org/themes-content) project. Enjoy!
+We added the text over these picture in [Keynotes](http://www.apple.com/mac/keynote/). The file [portfolio_1280x640.key](https://github.com/firepress-org/themes-content/tree/master/112_readiness/images/_keynote_project) is open to everyone and free to use. It's part of our open source project [theme-content](https://github.com/firepress-org/themes-content). Enjoy!
 
 ### Preview albums from one page
 
@@ -79,7 +79,7 @@ To learn how create a link on a picture, go to:
 
 ---
 
-### Tags
+## Tags
 
 A more advanced concept is to use tags. Maybe you want to filter the way we see your work by 
 

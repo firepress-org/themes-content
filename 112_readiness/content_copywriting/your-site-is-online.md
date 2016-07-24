@@ -11,12 +11,12 @@ You will see I carefully edited the content with elements you expect to see with
 
 So go for it and **take a moment to surf on your new website**! You will find these posts & pages:
 
-1. You rock! (aka, your site is online)
-2. Let me help you
-3. Contact
-4. About me
-5. Biography
-6. Good news: Phil is joining the team!
+1. Your site is online
+2. Focusing on pictures
+3. Services
+4. Contact
+5. About me
+6. Biography
 7. Testimonials
 
 **So tell me... how does it feel**?
