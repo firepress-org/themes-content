@@ -1,11 +1,15 @@
 # FirePress Default Installation
-- 112_readiness
+The interesting content is in the folder **112_readiness**.
+There is three sub-folder:
+- content_copywriting
+- images
+- other-stuff
 
 ## Download
-https://github.com/firepress-org/themes-content/archive/master.zip
+https://github.com/firepress-org/themes-content/archive/master.zip (+- 39 Mo)
 
 ## Goal
-At [FirePress](http://firepress.org/) 🔥📰, we empower creators, makers and organizations to build outstanding mobile-first websites, that speaks up for them.
+At [FirePress](http://firepress.org/) 🔥📰, our mission is to empower entrepreneurs, freelancers and organizations to build an outstanding mobile-first website. [You can get](http://firepress.org/) your landing page and Ghost installation today.
 
 Specifically, this is the default **content** we use for all new Ghost installations at FirePress 🔥📰. By doing this extra step for our clients, they can see quickly how their brand new website feels like. As new publishers, they can also understand how it made under the hood.
 
