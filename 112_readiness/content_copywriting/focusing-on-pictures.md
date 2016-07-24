@@ -1,10 +1,17 @@
-During my last trip around the world, I capture few pictures. Here are my favorites!
+During my last trip around the world, I capture few pictures. Here are my favorites! This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content.
+
+Donec eget blandit nisl. Sed laoreet, ex id venenatis tincidunt, nisi ex gravida justo, eget vulputate dolor sem vel erat. Vivamus porta at sem vel dictum. Donec egestas euismod consequat.
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg)
+
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots102.jpg)
+
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots103.jpg)
+
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots104.jpg)
+
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots105.jpg)
+
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots106.jpg)
 
 ---
@@ -82,4 +89,4 @@ In some case I would use both so there is two ways to search your albums. See ho
 
 ---
 
-<i class="fa fa-home" aria-hidden="true"></i> Go back [on the home](/) page.
+[<i class="fa fa-envelope-o" aria-hidden="true"></i>](/contact/) [Contact Me](/contact/) | [<i class="fa fa-home"" aria-hidden="true"></i>](/) [Go Home](/)<br><br>

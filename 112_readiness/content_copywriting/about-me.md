@@ -30,4 +30,4 @@ I also took the time to put together [my full biography](/biography/).
 
 ---
 
-Buzz me at anytime and reach me on my [contact](/contact/) page.
+[<i class="fa fa-envelope-o" aria-hidden="true"></i>](/contact/) [Contact Me](/contact/) | [<i class="fa fa-home"" aria-hidden="true"></i>](/) [Go Home](/)<br><br>

@@ -83,3 +83,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### about-me-2.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me-2.jpg
+
+### good-fast-cheap-pick-two-b.jpeg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/good-fast-cheap-pick-two-b.jpeg

@@ -12,12 +12,11 @@ This is what ***he*** and ***she*** said:
 
 <br>
 
-> That partership gave me the little boost that changed everything. — [Gary Vee](https://www.facebook.com/gary/)
+> This partership gave me the little boost that changed everything. — [Gary Vee](https://www.facebook.com/gary/)
 
 <br>
 
-> The four quotes above were made up by Sara. Sorry sister! — [Pascal Andy](http://pascalandy.com/)
-
+> The four quotes above were made up by Sara. Sorry sister... Busted! — [Pascal Andy](http://pascalandy.com/)
 
 ---
 
@@ -31,10 +30,10 @@ This is what ***he*** and ***she*** said:
 - Use GIF that share the spirit of your testimonials
 - etc.
 
-Get creative it's not that hard to show your credibility
+Get creative it's not that hard to show your credibility 
 
 <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/wrzf9P70YWLJK/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 
 ---
 
-Go back to [Services](/services/) page
+[<i class="fa fa-chevron-circle-left" aria-hidden="true"></i>](/this-is-what-i-do/) [This is what I do](/this-is-what-i-do/) | [<i class="fa fa-home"" aria-hidden="true"></i>](/) [Go Home](/)<br><br>

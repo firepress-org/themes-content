@@ -1,8 +1,3 @@
-*See the content below as a placeholder. Make it your own! Feel free to edit it and/or delete it*.
-
----
-
-## 1) Welcome
 Hey there, I'm Sara! It's a big day for you and I want to congratulate you because... **your website is online** 👌. I setup and preconfigured your website so you can quickly see how it feels. Sounds fair enough?
 
 You will see I carefully edited the content with elements you expect to see within a `Stage 1` website. Things like:
@@ -24,13 +19,12 @@ So go for it and **take a moment to surf on your new website**! You will find th
 6. Good news: Phil is joining the team!
 7. Testimonials
 
-> So tell me... how does it feel???
-
-> <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/gZq7GstcdqVXi/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
+**So tell me... how does it feel**?
+<div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/gZq7GstcdqVXi/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 
 --- 
 
-## 2) One step a time
+## One step a time
 
 When I setup your website, **I left out many elements** that could be included on your website. **I made this decision not to overwhelm you**. When you are ready to move on to a `Stage 2` website, you will be able to do fancy things like:
 
@@ -48,13 +42,15 @@ When I setup your website, **I left out many elements** that could be included o
 - Add Analytics
 - etc.
 
-To conclude on this point, **here is my advice**: take it one step at a time. Don't rush things. Becoming a publisher and **running a website that acts like your impresario** it not a small task. It's a mindset that takes time even for great marketers. For now, don't worry about all options.
+To conclude on this point, **here is my advice**: take it one step at a time. 
 
 <div><div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 49.8853%;"><iframe src="https://giphy.com/embed/6ZW5f40T12iLS/twitter/iframe" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe></div></div><br>
 
+Don't rush things. Becoming a publisher and **running a website that acts like your impresario** it not a small task. It's a mindset that takes time even for great marketers. For now, don't worry about all options.
+
 ---
 
-## 3) Start your journey here
+## Start your journey here
 
 As a **publisher**, you need to get familiar about editing and posting content on your site. We carefully prepared a [**step-by-step checklist**](http://blog.firepress.org/learn/) to develop your skills at your own pace.
 
