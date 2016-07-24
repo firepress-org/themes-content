@@ -1,5 +1,5 @@
 # FirePress Default Installation
-themes-content/**112_readiness**
+- 112_readiness
 
 ## Download
 https://github.com/firepress-org/themes-content/archive/master.zip
