@@ -20,7 +20,7 @@ This is what ***he*** and ***she*** said:
 
 ---
 
-> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, a point of view on how you put you content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have label this page as: <ins>They said</ins>, <ins>Reviews</ins>, <ins>Endorsements</ins>.
+> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, an opinionated way you could put your content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have labelled this page as: <ins>They said</ins>, <ins>Reviews</ins>, <ins>Endorsements</ins>.
 
 - Show a SMS screenshot of a `Good job! Thank you!`
 - Put pictures of gifts you received from clients

@@ -41,7 +41,7 @@ Please check all [testimonials](/testimonials/) I received over the years from s
 
 It's so much more than knowledge! In efficitur quis diam ut tempus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed neque risus, pellentesque ac nunc et, mattis elementum nibh. Cras sit amet lacus eu purus sagittis eleifend. Nunc lacinia dictum lacus eu commodo.
 
-> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, a point of view on how you put you content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have label this page as: <ins>Services</ins>, <ins>Our Service</ins>
+> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, an opinionated way you could put your content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have labelled this page as: ins>Services</ins>, <ins>Our Service</ins>
 <ins>Products</ins>, <ins>This is what I do</ins>, <ins>How Can I Help</ins>, <ins>The best lawyer in city [x-y-z]</ins>
 
 Aenean porttitor tellus nec purus eleifend tristique. Nullam commodo lectus ut dignissim dapibus. Integer dignissim pellentesque leo, vel dapibus est gravida sit amet. Nulla a porttitor arcu, nec fermentum neque.
@@ -49,7 +49,3 @@ Aenean porttitor tellus nec purus eleifend tristique. Nullam commodo lectus ut d
 <a href="/contact/" class="button button-block button-primary button-rounded">Schedule a meeting</a>
 
 ![my office](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg)
-
----
-
-[<i class="fa fa-envelope-o" aria-hidden="true"></i>](/contact/) [Contact Me](/contact/) | [<i class="fa fa-home"" aria-hidden="true"></i>](/) [Go Home](/)<br><br>

@@ -75,7 +75,7 @@ To learn how create a link on a picture, go to:
 
 ---
 
-> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, a point of view on how you put you content together. See it as a demo. Edit it or delete it and start over. Make it your own!
+> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, an opinionated way you could put your content together. See it as a demo. Edit it or delete it and start over. Make it your own!
 
 ---
 

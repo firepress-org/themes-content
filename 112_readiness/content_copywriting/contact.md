@@ -17,7 +17,7 @@ I'm also very active on [Twitter](https://twitter.com/_pascalandy), [Facebook](h
 
 [![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg)](https://www.google.ca/maps/@45.4549261,-73.5701503,17z)
 
-> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, a point of view on how you put you content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have label this page as: <ins>Contact me</ins>, <ins>Contact us</ins>
+> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, an opinionated way you could put your content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have labelled this page as: <ins>Contact me</ins>, <ins>Contact us</ins>
 
 > Above, the form links to Google Forms which is available for everyone with a Gmail account. We strongly suggest you to try [Typeform](http://referral.typeform.com/mQbygCx) an see how great it works.
 

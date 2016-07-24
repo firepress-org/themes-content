@@ -2,8 +2,6 @@ If you are wondering where I come from here is my story. I was born in Canada in
 
 You can see my [**resume online here (PDF)**](http://jmp.sh/G7yNKXq).
 
-> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, a point of view on how you put you content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have label this page as: <ins>Bio</ins>, <ins>How it started</ins>, <ins>This is how ACME started</ins>, <ins>Just like that ACME was born</ins>, <ins>My Story</ins>, <ins>Our Story</ins>, <ins>Back in time</ins>
-
 > If you want to help people to get to know you, a biography is one of the best ways to do it. It can be seen as a long version of your about me page. It's all about taste at the end.
 
 **May 1999** - This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. Those words that will follow won’t make any sense whatsoever which is fine. At the moment, the goal is to build a structure for our site. Of that continues to link the article anonymously modern art freud inferred. Eventually primitive brothel scene with a distinction The Enlightenment criticized from the history. 
@@ -18,7 +16,9 @@ You can see my [**resume online here (PDF)**](http://jmp.sh/G7yNKXq).
 
 **October 2002** — This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. All founders of the founders of art comes from antiquity to modern art. 
 
-**Summer 2003** — AllThe loud for this meant that there's a huge hill. Twitter apps are developed to design a tipping point,. That Android, or even tastes, good does it on paper you prototype it. Orchestra of power of NYTimescom who conducts the device you're using it on. This event was exceptional! See the video below:
+> **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, an opinionated way you could put your content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have labelled this page as: <ins>Bio</ins>, <ins>How it started</ins>, <ins>This is how ACME started</ins>, <ins>Just like that ACME was born</ins>, <ins>My Story</ins>, <ins>Our Story</ins>, <ins>Back in time</ins>
+
+**Summer 2003** — All The loud for this meant that there's a huge hill. Twitter apps are developed to design a tipping point,. That Android, or even tastes, good does it on paper you prototype it. Orchestra of power of NYTimescom who conducts the device you're using it on. This event was exceptional! See the video below:
 
 <div><div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/9Sc-ir2UwGU?wmode=transparent&rel=0&autohide=1&showinfo=0&enablejsapi=1" frameborder="0" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div></div>
 <br>
