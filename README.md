@@ -1,10 +1,10 @@
-### FirePress Default Installation
+# FirePress Default Installation
 themes-content/**112_readiness**
 
-### Download
+## Download
 https://github.com/firepress-org/themes-content/archive/master.zip
 
-### Goal
+## Goal
 At [FirePress](http://firepress.org/) 🔥📰, we empower creators, makers and organizations to build outstanding mobile-first websites, that speaks up for them.
 
 Specifically, this is the default **content** we use for all new Ghost installations at FirePress 🔥📰. By doing this extra step for our clients, they can see quickly how their brand new website feels like. As new publishers, they can also understand how it made under the hood.
@@ -16,34 +16,37 @@ Specifically, this is the default **content** we use for all new Ghost installat
 - backup files (json)
 - infographic file (Keynote, Photoshop)
 
-### Live Demo
+## Live Demo
 Almost there! 2016-07-23_21h09
 
-### History (changelog)
+## History (changelog)
 https://github.com/firepress-org/themes-content/blob/master/changelog.md
 
-### Repo URL
+## Repo URL
 https://github.com/firepress-org/themes-content/blob/master/112_readiness/README.md
 
-### Who Wrote This?
+## Who Wrote This?
 Pascal Andy — Founder of [FirePress](http://firepress.org/) 🔥📰. You can find me on [Twitter](https://twitter.com/_pascalandy) and on my [personal blog](http://pascalandy.com/)
 
 ---
 
-### Contributing
+# For developer only
+The section is interesting for developers and powerusers.
+
+## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-### Backlog
+## Backlog
 null
 
-### Issues 
+## Issues 
 null
 
-### Licence
+## Licence
 GNU GENERAL PUBLIC LICENCE | Version 3, 29 June 2007 | See it [here](https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE/blob/master/LICENSE.md).
 
 **No matter how I thrust the open source community, I feel it not best practice to**: 
