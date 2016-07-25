@@ -48,6 +48,9 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### Resume_Example_Pascal_Andy_2016-07-17.pdf
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/content_copywriting/Resume_Example_Pascal_Andy_2016-07-17.pdf
 
+### focus-on-mobile.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/focus-on-mobile.jpg
+
 ### beauty-shots101.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg
 

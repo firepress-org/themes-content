@@ -1,7 +1,11 @@
 # changelog.md 
 for Default Ghost Content Installation
 
-### 1.03 dev
+### 1.1 2016-07-25_15h53
+- new logo
+- new icon-project.key
+- new icon-project.psd
+
 - new backup: FirePress_Default_Installation_2016-07-17_14h26.json
 - Picture and album demo
 	- 
