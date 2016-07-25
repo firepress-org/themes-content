@@ -6,8 +6,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-author-profile.jpg (for Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 
-### core-blog-logo.png
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo.png
+### core-blog-logo.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo.jpg
 
 ### core-blog-cover.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
