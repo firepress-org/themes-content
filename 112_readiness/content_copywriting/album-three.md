@@ -19,4 +19,4 @@ This is a simple placeholder. These words won’t make any sense and it's fine. 
 
 ---
 
-<a href="/focusing-on-pictures/" class="button button-block button-primary button-rounded">See all albums</a><br>
+<a href="/pictures-and-albums/" class="button button-block button-primary button-rounded">See all albums</a><br>

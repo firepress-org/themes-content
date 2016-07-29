@@ -1,8 +1,8 @@
-I help people to [x-y-z] and I ensure to make the whole process as painless as possible. We are small, lean and highly reactive. But let's be realistic ...
+I help people to [x-y-z] and I ensure the whole process is as painless as possible. We are small, lean and highly reactive.
+
+Here is the big question. How do you choose the best person to help you accomplish [x-y-z]? How do you know you have the best person to care for this problem ? Let's be realistic for a moment ...
 
 ![Pcik Only Two](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/good-fast-cheap-pick-two-b.jpeg)
-
-Here is the big question. How do you choose the best person to help you accomplish [x-y-z]? How do you know you have the best person to care for this problem ? 
 
 Whatever you decide to use my services or not, let me help you taking the best decision. **I believe you should always consider these three factors** when doing business with a [x-y-z].
 

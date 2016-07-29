@@ -34,7 +34,8 @@ During my last trip around the world, I capture few pictures. Here are my favori
 
 ---
 
-# Albums Preview
+<br>
+# Albums
 
 You can use a picture as a link. Try it, you can click on those three pictures below.
 
@@ -61,7 +62,7 @@ We added the text over these picture in [Keynotes](http://www.apple.com/mac/keyn
 
 Creating a preview is the action of aggregating, "to combine" or to put things together.
 
-When you have many-many-many photos and albums it's a great idea to create **previews** and aggregate your albums into one place. You could have one main page ([like this one](/focusing-on-pictures/)) where your visitor can preview a picture of each of your albums. 
+When you have many-many-many photos and albums it's a great idea to create **previews** and aggregate your albums into one place. You could have one main page ([like this one](/pictures-and-albums/)) where your visitor can preview a picture of each of your albums. 
 
 The same concept apply for videos or podcast. A great example is how Tim Ferris does it for it's [Podcast page](http://fourhourworkweek.com/podcast/).
 

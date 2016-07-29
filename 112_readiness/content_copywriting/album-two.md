@@ -17,4 +17,4 @@ In [this](http://nymag.com/listings/bar/maries_crisis/) coffee shop, I can't hel
 
 ---
 
-<a href="/focusing-on-pictures/" class="button button-block button-primary button-rounded">See all albums</a><br>
+<a href="/pictures-and-albums/" class="button button-block button-primary button-rounded">See all albums</a><br>

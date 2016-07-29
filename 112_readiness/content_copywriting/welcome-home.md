@@ -11,7 +11,7 @@ You will see I carefully edited the content with elements you expect to see with
 
 So go for it and **take a moment to surf on your new website**! You will find these posts & pages:
 
-1. Your site is online
+1. Welcome in your digital home
 2. Focusing on pictures
 3. Services
 4. Contact

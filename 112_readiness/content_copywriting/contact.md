@@ -11,7 +11,7 @@ Website: http://firepress.org/
 
 ## Social Networks
 
-I'm also very active on [Twitter](https://twitter.com/_pascalandy), [Facebook](https://www.facebook.com/pascalandy1) and [Linkedin](Profil publichttps://ca.linkedin.com/in/pascalnguyendeschenes).
+I'm also very active on [Twitter](https://twitter.com/_pascalandy), [Facebook](https://www.facebook.com/pascalandy1) and [Linkedin](https://ca.linkedin.com/in/pascalnguyendeschenes).
 
 ## On the map
 
