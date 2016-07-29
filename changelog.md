@@ -1,6 +1,9 @@
 # changelog.md 
 for Default Ghost Content Installation
 
+# commits
+- https://github.com/firepress-org/themes-content/commits/master
+
 ### 1.1 2016-07-25_15h53
 - new logo
 - new icon-project.key
