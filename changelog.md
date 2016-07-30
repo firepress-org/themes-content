@@ -4,6 +4,10 @@ for Default Ghost Content Installation
 # commits
 - https://github.com/firepress-org/themes-content/commits/master
 
+### 1.2 2016-07-28_23h29
+- FirePress_Default_Installation_2016-07-28_23h29
+- minor content updates
+
 ### 1.1 2016-07-25_15h53
 - new logo
 - new icon-project.key
