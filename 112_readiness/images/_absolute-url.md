@@ -12,6 +12,9 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-blog-cover.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
 
+### core-blog-cover-sharp.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-sharp.jpg
+
 ### life-is-good.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
 
@@ -89,3 +92,6 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### good-fast-cheap-pick-two-b.jpeg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/good-fast-cheap-pick-two-b.jpeg
+
+### parts.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/parts.jpg
