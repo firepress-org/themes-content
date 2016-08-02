@@ -7,3 +7,7 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_108.jpg
 
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_118.jpg
+
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_121.jpg
+
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_122.jpg
