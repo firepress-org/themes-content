@@ -14,4 +14,4 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_201.jpg
 
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_202.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/abstract-headers/abstract_203.jpg
