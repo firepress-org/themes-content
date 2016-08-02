@@ -12,16 +12,14 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-blog-cover.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
 
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-b.jpg
-
 ### life-is-good.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
 
 ### blurry-warmy.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/blurry-warmy-b.jpg
 
-### book.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/book.jpg
+### biography.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/biography.jpg
 
 ### white-coffee-b.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-coffee-b.jpg
