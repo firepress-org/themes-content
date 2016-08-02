@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-blog-cover.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
 
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-b.jpg
+
 ### life-is-good.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
 
