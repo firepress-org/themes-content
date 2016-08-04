@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-blog-cover-city-blurry.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-blurry.jpg
 
+---
+
 ### header-service-jane.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
 
@@ -20,6 +22,11 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### header-album.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-album.jpg
+
+### header-about.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-about.jpg
+
+---
 
 ### biography.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/biography.jpg
