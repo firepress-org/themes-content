@@ -9,11 +9,11 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-blog-logo-100px.png
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
-### core-blog-cover-blurry.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-blurry.jpg
+### core-blog-cover-city-blurry.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-blurry.jpg
 
-### core-blog-cover-sharp.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-sharp.jpg
+### core-blog-cover-city-sharp.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-sharp.jpg
 
 ### life-is-good.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
