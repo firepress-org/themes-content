@@ -79,7 +79,7 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
 
 ### beauty-shots109.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots109.jpg
 
 ### beauty-shots110.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg
@@ -87,8 +87,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### what-i-do.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/what-i-do.jpg
 
-### about-me-2.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me-2.jpg
+### about-me.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me.jpg
 
 ### good-fast-cheap-pick-two-b.jpeg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/good-fast-cheap-pick-two-b.jpeg
