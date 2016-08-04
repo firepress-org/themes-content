@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### header-city-sharp.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-city-sharp.jpg
 
+### header-album.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-album.jpg
+
 ### biography.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/biography.jpg
 
