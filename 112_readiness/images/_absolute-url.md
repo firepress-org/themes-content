@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### header-about.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-about.jpg
 
+### header-contact.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-contact.jpg
 ---
 
 ### biography.jpg
