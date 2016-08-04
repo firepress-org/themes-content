@@ -6,11 +6,11 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-author-profile.jpg (for Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 
-### core-blog-logo.png
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo.png
+### core-blog-logo-100px.png
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
-### core-blog-cover.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
+### core-blog-cover-blurry.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-blurry.jpg
 
 ### core-blog-cover-sharp.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-sharp.jpg
