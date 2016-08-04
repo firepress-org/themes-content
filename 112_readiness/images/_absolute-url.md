@@ -31,6 +31,10 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### header-bio.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-bio.jpg
+
+### header-tag-howto.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-tag-howto.jpg
+
 ---
 
 ### biography.jpg
