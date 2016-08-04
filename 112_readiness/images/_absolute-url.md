@@ -30,8 +30,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### mobile-first.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first.jpg
 
-### profile-jane.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-jane.jpg
+### header-service-jane.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
 
 ### profile-mike.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg
