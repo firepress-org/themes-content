@@ -12,32 +12,20 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-blog-cover-city-blurry.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-blurry.jpg
 
-### core-blog-cover-city-sharp.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-sharp.jpg
+### header-service-jane.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
 
-### life-is-good.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
-
-### blurry-warmy.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/blurry-warmy-b.jpg
+### header-city-sharp.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-city-sharp.jpg
 
 ### biography.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/biography.jpg
 
-### white-coffee-b.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-coffee-b.jpg
-
 ### mobile-first.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first.jpg
 
-### header-service-jane.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
-
 ### profile-mike.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg
-
-### profile-jane.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-jane.jpg
 
 ### white-at-the-office.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg
