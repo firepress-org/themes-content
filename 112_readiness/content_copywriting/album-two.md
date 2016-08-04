@@ -1,4 +1,3 @@
-
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/album-two/pascal-trip_201.jpg)
 
 In [this](http://nymag.com/listings/bar/maries_crisis/) coffee shop, I can't help but remember how great it was watch Kygo play this song next to us.

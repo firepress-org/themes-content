@@ -37,32 +37,19 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ---
 
-### biography.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/biography.jpg
-
 ### mobile-first.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first.jpg
 
 ### profile-mike.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg
 
-### white-at-the-office.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg
-
 ### map3.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg
 
-### testimonials-d.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-d.jpg
+### parts.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/parts.jpg
 
-### tags-background-d.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/tags-background-d.jpg
-
-### Resume_Example_Pascal_Andy_2016-07-17.pdf
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/content_copywriting/Resume_Example_Pascal_Andy_2016-07-17.pdf
-
-### focus-on-mobile.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/focus-on-mobile.jpg
+---
 
 ### beauty-shots101.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg
@@ -93,15 +80,3 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ### beauty-shots110.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg
-
-### what-i-do.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/what-i-do.jpg
-
-### about-me.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me.jpg
-
-### good-fast-cheap-pick-two-b.jpeg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/good-fast-cheap-pick-two-b.jpeg
-
-### parts.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/parts.jpg

@@ -1,4 +1,3 @@
-
 This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. Cras condimentum nibh magna, quis sollicitudin odio sagittis ac.
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/album-three/pascal-trip_301.jpg)

@@ -18,7 +18,7 @@ During my last trip around the world, I capture few pictures. Here are my favori
 
 ![](https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg)
 
-> **Best practice** — Export your pictures with a width of 1280px (*the height does not matter*) in JPG format. Compress them with [JPEGmini](http://www.jpegmini.com/app) to ensure your site is loading very quickly. We all hate waiting while seeing picture loading right ?
+> **Best practice** — **Export** your pictures with a width of 1280px (*the height does not matter*) in JPG format. **Compress** them with [JPEGmini](http://www.jpegmini.com/app) to ensure your site is stays snappy and load quickly. This is specially important for mobile users (which is now the majority of web traffic. Everyone hates for websites that are too heavy.
 
 ---
 
