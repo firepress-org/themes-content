@@ -29,11 +29,17 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### header-contact.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-contact.jpg
 
-### header-bio.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-bio.jpg
+### header-biography.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-biography.jpg
+
+### header-testimonials.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-testimonials.jpg
 
 ### header-tag-howto.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-tag-howto.jpg
+
+### header-portfolio.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-portfolio.jpg
 
 ---
 
