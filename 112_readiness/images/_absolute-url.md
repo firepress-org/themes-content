@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ---
 
-### header-samantha-lawyer_104.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_104.jpg
+### header-samantha-lawyer_105.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_105.jpg
 
 ### header-service-jane.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
