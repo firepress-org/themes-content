@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### core-author-profile.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 
+credits to Kristina Servant http://bit.ly/2bfknUI
+
 ### core-blog-logo-100px.png
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
