@@ -59,6 +59,9 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ---
 
+### portefolio-preview_top-5.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/portefolio-preview_top-5.jpg
+
 ### portefolio-preview_2014.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/portefolio-preview_2014.jpg
 
