@@ -1,35 +1,29 @@
-## absolute url for /111_general-demo/images/
+## absolute url for themes-content/112_readiness/images/
 
 ### core-author-cover.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-cover.jpg
 
 ### core-author-profile.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
-
-credits to Kristina Servant http://bit.ly/2bfknUI
+	
+	credits to Kristina Servant http://bit.ly/2bfknUI
 
 ### core-blog-logo-100px.png
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
-### core-blog-cover-city-blurry.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-blurry.jpg
+### core-blog-cover.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
 
 ---
 
 ### header-samantha-lawyer_108.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_108.jpg
 
-### header-service-jane.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
-
-### header-city-sharp.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-city-sharp.jpg
-
-### header-album.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-album.jpg
-
-### header-about.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-about.jpg
+	This is the main picture is used for page/posts:
+	1. blog-cover (duplicated above)
+	2. services
+	3. testimonials
+	4. about
 
 ### header-contact.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-contact.jpg
@@ -57,37 +51,18 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### map3.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg
 
-### parts.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/parts.jpg
+### serious-suit.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/serious-suit.jpg
 
 ---
 
-### beauty-shots101.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg
+### portefolio-preview_2014.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/portefolio-preview_2014.jpg
 
-### beauty-shots102.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots102.jpg
+### portefolio-preview_2015.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/portefolio-preview_2015.jpg
 
-### beauty-shots103.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots103.jpg
+### portefolio-preview_2016.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/portefolio-preview_2016.jpg
 
-### beauty-shots104.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots104.jpg
-
-### beauty-shots105.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots105.jpg
-
-### beauty-shots106.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots106.jpg
-
-### beauty-shots107.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots107.jpg
-
-### beauty-shots108.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
-
-### beauty-shots109.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots109.jpg
-
-### beauty-shots110.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg
+I
