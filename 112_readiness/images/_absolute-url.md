@@ -1,52 +1,66 @@
 ## absolute url for /111_general-demo/images/
 
-### core-author-cover.jpg (for Sara)
+### core-author-cover.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-cover.jpg
 
-### core-author-profile.jpg (for Sara)
+### core-author-profile.jpg (user Sara)
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-author-profile.jpg
 
-### core-blog-logo.png
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo.png
+credits to Kristina Servant http://bit.ly/2bfknUI
 
-### core-blog-cover.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
+### core-blog-logo-100px.png
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
-### life-is-good.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/life-is-good.jpg
+### core-blog-cover-city-blurry.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover-city-blurry.jpg
 
-### blurry-warmy.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/blurry-warmy-b.jpg
+---
 
-### book.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/book.jpg
+### header-samantha-lawyer_108.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_108.jpg
 
-### white-coffee-b.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-coffee-b.jpg
+### header-service-jane.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-service-jane.jpg
 
-### mobile-first-a.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first-a.jpg
+### header-city-sharp.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-city-sharp.jpg
 
-### profile-jane.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-jane.jpg
+### header-album.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-album.jpg
+
+### header-about.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-about.jpg
+
+### header-contact.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-contact.jpg
+
+### header-biography.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-biography.jpg
+
+### header-testimonials.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-testimonials.jpg
+
+### header-tag-howto.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-tag-howto.jpg
+
+### header-portfolio.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-portfolio.jpg
+
+---
+
+### mobile-first.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/mobile-first.jpg
 
 ### profile-mike.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/profile-mike.jpg
 
-### white-at-the-office.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/white-at-the-office.jpg
-
 ### map3.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/map3.jpg
 
-### testimonials-d.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/testimonials-d.jpg
+### parts.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/parts.jpg
 
-### tags-background-d.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/tags-background-d.jpg
-
-### Resume_Example_Pascal_Andy_2016-07-17.pdf
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/content_copywriting/Resume_Example_Pascal_Andy_2016-07-17.pdf
+---
 
 ### beauty-shots101.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots101.jpg
@@ -73,13 +87,7 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
 
 ### beauty-shots109.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots108.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots109.jpg
 
 ### beauty-shots110.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/beauty-shots110.jpg
-
-### what-i-do.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/what-i-do.jpg
-
-### about-me-2.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/about-me-2.jpg
