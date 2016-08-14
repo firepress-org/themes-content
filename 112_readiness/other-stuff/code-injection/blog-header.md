@@ -1,12 +1,11 @@
-<!-- Change text color of the page title and description. -->
+<!-- Change text color of the page title and description. Default = #2e2e2e -->
 <style>
     .page-title,
-    .page-description {color:#F9F9F9!important;
+    .page-description {color:#2e2e2e!important;
      }
 </style>
 
-<!-- Google Analytics -->
-<!-- Update 'UA-XxXxXxXx-X' with your own ID -->
+<!-- Google Analytics, update 'UA-XxXxXxXx-X' with your own ID -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
