@@ -1,4 +1,4 @@
-If you are wondering where I come from here is my story. I was born in Canada in 1980. My father was a [x-y-z] and my mother was practising [x-y-z] at the time. [...]
+**Here is my story** — I was born in Canada in 1980. My father was a [x-y-z] and my mother was practising [x-y-z] at the time.
 
 If you prefer, look at my [<i class="fa fa-file-pdf-o fa-lg" aria-hidden="true"></i>](http://jmp.sh/G7yNKXq) [PDF resume](http://jmp.sh/G7yNKXq).
 

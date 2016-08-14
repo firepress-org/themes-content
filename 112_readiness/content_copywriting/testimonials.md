@@ -1,25 +1,54 @@
-This is what ***he*** and ***she*** said:
+This is what they said:
 
-> What can I say that's not been said about Nadine ? Bravissimo! — [Jimmy Ray](https://www.youtube.com/watch?v=JqnO40AGRSc)
-
-<br>
-
-> I'm very impressed by what Sara did for my website. I couldn't have make it without you! xoxx — [Katy Perry](https://twitter.com/katyperry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-<br>
-
-> My life change since Sara is in my life. — [Jeff Bezos](https://www.linkedin.com/in/jeffrey-bezos-b2b351123)
-
-<br>
-
-> This partership gave me the little boost that changed everything. — [Gary Vee](https://www.facebook.com/gary/)
-
-<br>
-
-> The four quotes above were made up by Sara. Sorry sister... Busted! — [Pascal Andy](http://pascalandy.com/)
+> What can I say that's not been said about Sara ? Bravissimo!
+<br>— Walt Mossberg from [theverge.com](http://www.theverge.com/users/WaltMossberg)
 
 ---
 
+> I'm very impressed by what Sara did for my website. I couldn't have make it without you! xoxx
+<br>— [Katy Perry](https://twitter.com/katyperry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+
+---
+
+> My life change since Sara is in my life.
+<br>— [Jeff Bezos](https://www.linkedin.com/in/jeffrey-bezos-b2b351123)
+
+---
+
+> This platform gave me this extra boost that changed everything.
+<br>— [Gary Vee](https://www.facebook.com/gary/)
+
+---
+
+> The quotes above were made up by Sara.
+<br>— Pascal Andy, blogger at [pascalandy.com](http://pascalandy.com/)
+
+---
+
+> What can I say that's not been said about Sara ? Bravissimo!
+<br>— Walt Mossberg from [theverge.com](http://www.theverge.com/users/WaltMossberg)
+
+---
+
+> I'm very impressed by what Sara did for my website. I couldn't have make it without you! xoxx
+<br>— [Katy Perry](https://twitter.com/katyperry?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+
+---
+
+> My life change since Sara is in my life.
+<br>— [Jeff Bezos](https://www.linkedin.com/in/jeffrey-bezos-b2b351123)
+
+---
+
+> This platform gave me this extra boost that changed everything.
+<br>— [Gary Vee](https://www.facebook.com/gary/)
+
+---
+
+> The quotes above were made up by Sara.
+<br>— Pascal Andy, blogger at [pascalandy.com](http://pascalandy.com/)
+
+<br>See **[all testimonials](/testimonials/)** I received over the years from satisfied clients (*and organisations I helped pro-bono*).
 > **Sara's note** — The [content](https://github.com/firepress-org/themes-content) on this page is an example, an opinionated way you could put your content together. See it as a demo. Edit it or delete it and start over. Make it your own! We could also have labelled this page as: <ins>They said</ins>, <ins>Reviews</ins>, <ins>Endorsements</ins>.
 
 - Show a SMS screenshot of a `Good job! Thank you!`

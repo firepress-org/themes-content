@@ -16,4 +16,13 @@ In [this](http://nymag.com/listings/bar/maries_crisis/) coffee shop, I can't hel
 
 ---
 
-<a href="/pictures-and-albums/" class="button button-block button-primary button-rounded">See all albums</a><br>
+- [My Top Five](/my-top-5-most-important-accomplishments-portefolio/)
+- [Portfolio 2016](/portfolio-2016)
+- [Portfolio 2015](/portfolio-2015)
+- [Portfolio 2014](/portfolio-2014)
+
+<a href="/portfolio/" class="button button-block button-primary button-rounded">Back to Portfolio</a><br>
+
+---
+
+[<i class="fa fa-envelope-o" aria-hidden="true"></i>](/contact/) [Contact Me](/contact/) | [<i class="fa fa-home"" aria-hidden="true"></i>](/) [Go Home](/)<br><br>

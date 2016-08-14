@@ -1,22 +1,20 @@
-I've been working in [x-y-z] for several years. It all started when I had to do a presentation for [x-y-z]. This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content.
+I've been working in [x-y-z] for several years. It all started when I had to do a presentation for [x-y-z]. This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. 
+
+**Services** — See [what I can do for you here](/services/).
 
 **Who am I?** — This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. Aliquam placerat faucibus felis et molestie. Curabitur vestibulum, sem eget fermentum convallis, neque enim laoreet est, sit amet consectetur libero elit nec tortor.
 
-**How can I help you?** — This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content 😙. This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. 
+**How can I help you?** — This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content 😙. This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. Read my detailed [biography here](/biography/).
 
 **How did I get here?** — This text is only used as a placeholder. At exist, that math anxiety activates much larger role in our users 🙏🙏🙏. Them of third-graders, published this will dumb down students’ understanding or doing emotionally.
 
 **Why can you trust me?** — Please check all [testimonials](/testimonials/) I received over the years from satisfied clients (*and organisations I helped pro-bono*).
 
-This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content. Curabitur eu ipsum ut tortor mattis dignissim. Read my detailed [biography here](/biography/).
+My story — I took the time to put together **my biography**. Find it [here](/biography/). 
 
 **What do we share in common?** — This is a simple placeholder. These words won’t make any sense and it's fine. The goal here is to focus on the container not on the content.Morbi eu justo sed neque imperdiet fermentum sed dignissim orci. 
 
 Phasellus a ex risus. Ut a pretium quam. Fusce et porttitor enim, et pulvinar lectus. Proin fermentum ligula vitae purus imperdiet, vitae rutrum tellus ullamcorper. 
-
-## My detailed biography
-
-I also took the time to put together [my full biography](/biography/). 
 
 ---
 
