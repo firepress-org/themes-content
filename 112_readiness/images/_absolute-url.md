@@ -25,6 +25,12 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 	3. testimonials
 	4. about
 
+### header-samantha-lawyer_109.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_109.jpg
+
+### header-samantha-lawyer_115.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_115.jpg
+
 ### header-contact.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-contact.jpg
 
