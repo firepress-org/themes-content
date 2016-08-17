@@ -4,6 +4,9 @@ for Default Ghost Content Installation
 # commits
 - https://github.com/firepress-org/themes-content/commits/master
 
+### 1.3 2016-08-17_15h30
+- major updates
+
 ### 1.21 wip
 - reducing the logo at 100px (50 HDPI)
 
