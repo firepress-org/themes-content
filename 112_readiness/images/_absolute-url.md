@@ -16,20 +16,14 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 
 ---
 
-### header-samantha-lawyer_108.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_108.jpg
+### header-samantha-lawyer_115.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_115.jpg
 
 	This is the main picture is used for page/posts:
 	1. blog-cover (duplicated above)
 	2. services
 	3. testimonials
 	4. about
-
-### header-samantha-lawyer_109.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_109.jpg
-
-### header-samantha-lawyer_115.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-samantha-lawyer_115.jpg
 
 ### header-contact.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/header-contact.jpg
@@ -60,8 +54,8 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### serious-suit.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/serious-suit.jpg
 
-### contact-me-here.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/contact-me-here.jpg
+### animated-good-job.gif
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/animated-good-job.gif
 
 ---
 
