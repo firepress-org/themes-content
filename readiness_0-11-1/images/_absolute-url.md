@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-logo-100px.png
 
 ### core-blog-cover.jpg
-https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/core-blog-cover.jpg
+https://raw.githubusercontent.com/firepress-org/themes-content/master/readiness_0-11-1/images/core-blog-cover.jpg
 
 ---
 
