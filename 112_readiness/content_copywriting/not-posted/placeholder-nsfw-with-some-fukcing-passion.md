@@ -1,4 +1,4 @@
-This is a simple placeholder or a fucking Lorem ipsum if you prefer. These words won’t make any sense and we are cool with it. Finally the placeholder text for people who have some fucking passion!
+This is a simple fucking Lorem ipsum. These words won’t make any sense and we are cool with it. Finally the placeholder text for people who have some fucking passion!
 
 Nothing of value comes to you without fucking working at it. When you sit down to work, external critics aren’t the enemy. It’s you who you must to fight against to do great fucking work. You must overcome yourself. Design as if your fucking life depended on it. This design is fucking brilliant. Don’t fucking lie to yourself.
 
@@ -83,8 +83,6 @@ Intuition is fucking important. Never, never assume that what you have achieved 
 Think about all the fucking possibilities. Never let your guard down by thinking you’re fucking good enough. When you design, you have to draw on your own fucking life experiences. If it’s not something you would want to read/look at/use then why fucking bother? Don’t worry about what other people fucking think.
 
 Nothing of value comes to you without fucking working at it. To go partway is easy, but mastering anything requires hard fucking work. You are not your fucking work. You are not your fucking work. Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography. Don’t worry about what other people fucking think. Someday is not a fucking day of the week.
-
----
 
 ---
 
