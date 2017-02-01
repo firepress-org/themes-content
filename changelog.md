@@ -4,6 +4,13 @@ for Default Ghost Content Installation
 # commits
 - https://github.com/firepress-org/themes-content/commits/master
 
+
+
+
+
+### 1.4
+- major restructuration
+
 ### 1.3 2016-08-17_15h30
 - major updates
 
