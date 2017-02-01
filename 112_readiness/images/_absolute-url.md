@@ -71,4 +71,7 @@ https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readin
 ### portefolio-preview_2016.jpg
 https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/portefolio-preview_2016.jpg
 
-I
+---
+
+# random
+https://raw.githubusercontent.com/firepress-org/themes-content/master/112_readiness/images/_random/logo-firepress-256.png
